@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#F2F2F2</color>
+    <color name="background_blue">#95C8D8</color>
+    <color name="word_blue">#0099FF</color>
+    <color name="signUp_red">#D87234</color>
+    <color name="loading_background_gray">#B9BBB6</color>
+</resources>

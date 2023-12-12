@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fypCRM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">AIzaSyCWgq9_OXj5ScXU715ImdTqJmSwUKeql1g</string>
+    <string name="facebook_app_id">1517805555704358</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDzpGjx5hv9gk9VsRv7sXT6dQ_-tsmhehw</string>
+</resources>
